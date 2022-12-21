@@ -1,2 +1,4 @@
+from visualizer import show_important_words
+
 if __name__ == '__main__':
-    print('PyCharm')
+    show_important_words(49)
